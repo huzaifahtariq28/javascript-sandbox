@@ -1,5 +1,5 @@
 function isLandscape(width, height) {
-    return (width > height);
+  return width > height;
 }
 
 let width = 100;

@@ -7,6 +7,7 @@ Welcome to the JavaScript Sandbox! This repository is dedicated to providing a s
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Explore Exercises](#explore-exercises)
+- [Run Exercise](#run-exercise)
 - [Repository Structure](#repository-structure)
 - [Contributing](#contributing)
 - [License](#license)
@@ -36,6 +37,14 @@ Before you begin, make sure you have the following installed on your system:
 ### Explore Exercises:
 
 Navigate to the exercises directory to find a variety of JavaScript exercises covering different topics.
+
+### Run Exercise:
+
+Navigate to the exercises directory and type the following command:
+
+```bash
+node exercise-name
+```
 
 ### Repository Structure:
 

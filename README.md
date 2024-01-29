@@ -40,7 +40,7 @@ Navigate to the exercises directory to find a variety of JavaScript exercises co
 
 ### Run Exercise:
 
-Navigate to the exercises directory and type the following command:
+Navigate to the exercises directory, choose your topic and move into the topic's directory. Finally type the following command to run the exercise:
 
 ```bash
 node exercise-name

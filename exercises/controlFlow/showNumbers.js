@@ -1,0 +1,10 @@
+//This function takes a limit as an argument. Upto this limit, it displays all the numbers along with their Even or Odd Status
+
+function showNumbers(limit) {
+    for (let i = 0; i <= limit; i++) {
+        const message = (i % 2 === 0) ? 'EVEN' : 'ODD';
+        console.log(`${i} ${message}`);
+    }
+}
+
+showNumbers(10);

@@ -1,4 +1,5 @@
-//This function takes an array and a search element as an argument. If the search element is present in the array it returns true, otherwise it returns false.
+//This function takes an array and a search element as an argument. 
+// If the search element is present in the array it returns true, otherwise it returns false.
 
 function includes(array, searchElement) {
     for (let value of array)

@@ -1,5 +1,5 @@
 // This function takes the original array, the index of the element to be moved and the offset for the move as arguments. 
-//This function then moves the element at the given index to the new position depending on the provided offset.
+// This function then moves the element at the given index to the new position depending on the provided offset.
 
 function move(array, index, offset) {
     const position = index + offset;
